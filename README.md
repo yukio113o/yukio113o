@@ -1,4 +1,4 @@
-<h3 align="center">I'm yukio! Bassist,Bartender,Backend Developer</h3>
+<h3 align="center">I'm yukio!</h3>
 
 <p align="left"> <a href="https://twitter.com/tonkatsuyuki" target="blank"><img src="https://img.shields.io/twitter/follow/tonkatsuyuki?logo=twitter&style=for-the-badge" alt="tonkatsuyuki" /></a> </p>
 
